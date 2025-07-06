@@ -5,7 +5,7 @@
 <h1 align="center">Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" /> I'm Hussein</h1>
 <h3 align="center">Full Stack Developer · CS Student · Code as Craft</h3>
 
----
+
 
 ## 🧭 About Me
 
@@ -21,7 +21,6 @@ I value simplicity, clarity, and human-centered design.
 - 📫 Contact me at: [husseinmerii7643@gmail.com](mailto:husseinmerii7643@gmail.com)  
 - 🚀 Currently working on: [Smart Cinema Website](https://github.com/HusseinMerhy/smartCinema.git)
 
----
 
 ### Skills
 
