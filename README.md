@@ -1,9 +1,8 @@
 ✅ Final README.md — Clean, Dark, Wise, and Inspired
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HusseinMerhy/HusseinMerhy/main/banner.jpeg" alt="Cyberpunk Matrix Banner" width="100%" height="10rem" style="object-fit: cover; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/HusseinMerhy/HusseinMerhy/main/banner.jpeg" width="100%" alt="Cyberpunk Matrix Banner" />
 </p>
-
 
 <h1 align="center">Hi, I'm Hussein 👋</h1>
 <h3 align="center">Full Stack Developer · CS Student · Code as Craft</h3>
