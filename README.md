@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HusseinMerhy/HusseinMerhy/main/banner.jpeg" width="100%" height="80%" style="object-fit: cover;" alt="Cyberpunk Matrix Banner" />
+  <img src="https://raw.githubusercontent.com/HusseinMerhy/HusseinMerhy/main/banner.jpeg" width="100%" alt="Cyberpunk Matrix Banner" />
 </p>
 
 <h1 align="center">Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" /> I'm Hussein</h1>
