@@ -19,7 +19,7 @@ I value simplicity, clarity, and human-centered design.
 
 - 🌍 Based in **Lebanon**  
 - 📫 Contact me at: [husseinmerii7643@gmail.com](mailto:husseinmerii7643@gmail.com)  
-- 🚀 Currently working on: [Smart Cinema Website](https://github.com/HusseinMerhy/smartCinema.git)
+- 🚀 Currently working on: [Java Backend enginner journey](https://github.com/HusseinMerhy/BackendEngineer.git)
 
 
 ### Skills
